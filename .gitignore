@@ -1,0 +1,10 @@
+.DS_Store
+*/.DS_Store
+__MACOSX/
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+.idea/
+.vscode/
+*.pyc
+__pycache__/
