@@ -1,0 +1,10 @@
+{
+  "test_accuracy": 0.8337,
+  "test_roc_auc": 0.9188,
+  "test_precision": 0.8341,
+  "test_recall": 0.8476,
+  "test_f1": 0.8408,
+  "n_test_samples": 3217,
+  "false_negatives": 254,
+  "false_positives": 281
+}
