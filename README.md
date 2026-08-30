@@ -1,6 +1,6 @@
 ## 📄 Documentation
 - [Project Report (PDF)](BDEProject_Report.pdf)
-- [Presentation Slides (PDF)](Project_Presentation.pdf)
+- [Presentation Slides (PDF)](MushroomClassificationPRESENETATION_Shoaf.pdf)
   
 # Mushroom Edibility Classification: Method Comparison
 
