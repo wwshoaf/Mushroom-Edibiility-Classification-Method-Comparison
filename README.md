@@ -1,4 +1,7 @@
-
+## 📄 Documentation
+- [Project Report (PDF)](BDEProject_Report.pdf)
+- [Presentation Slides (PDF)](Project_Presentation.pdf)
+  
 # Mushroom Edibility Classification: Method Comparison
 
 Comparing tabular machine learning classifiers against CNN-based image classification for predicting mushroom edibility, restricted in both cases to features a forager could actually observe in the field.
